@@ -1,3 +1,3 @@
 # poornika-demo
 First github project
-autor-poornika
+author-poornika
